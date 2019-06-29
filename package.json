@@ -1,0 +1,22 @@
+{
+  "name": "finalportfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Djn94/FinalPortfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Djn94/FinalPortfolio/issues"
+  },
+  "homepage": "https://github.com/Djn94/FinalPortfolio#readme",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
