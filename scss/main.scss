@@ -7,4 +7,18 @@ $primary-color:#4444;
 body{
     background: $primary-color;
     color: #fff;
-}
+    height: 100%;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.5;
+};
+
+//heading scss
+h1, h2, h3 {
+    margin: 0;
+    font-weight: 400;
+
+    &.lg-heading{
+        font-size: 6rem;
+    }
+};
