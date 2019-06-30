@@ -1,5 +1,6 @@
 # FinalPortfolio
-Since I'm having some issues deploying, here are some screens
+Since I'm having some issues deploying, here are some screens.
+The whole app is completely mobile responsive.
 
 The social media icons have an on hover fade-in effect with the color.
 ![img](https://i.ibb.co/DQrkHSy/home.png
@@ -15,4 +16,5 @@ I plan on adding a functional contact page soon
 ![img](https://i.ibb.co/bKyhKRW/contact.png
 )
 
-
+Techs used:
+HTML, Javascript, node-sass.
