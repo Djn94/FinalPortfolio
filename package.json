@@ -1,0 +1,24 @@
+{
+  "name": "finalportfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://Djn94.github.io/FinalPortfolio",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Djn94/FinalPortfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Djn94/FinalPortfolio/issues"
+  },
+  "dependencies": {
+    "gh-pages": "^2.0.1",
+    "node-sass": "^4.12.0"
+  }
+}
