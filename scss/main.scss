@@ -138,6 +138,9 @@ main{
 }
     }
 }
+.title{
+    text-align: center;
+}
 .btn{
     display: block;
     padding: 0.5rem 1rem;
@@ -167,10 +170,5 @@ color: white
     color: set-text-color($primary-color);
     height: 60px;
 }
-
-
-
-
-
 
 @import 'mobile';
